@@ -17,3 +17,8 @@
 	path = l10n_do_hr_payroll
 	url = git@github.com:xmarts/l10n_do_hr_payroll.git
 	branch = 13.0
+
+[submodule "sh-whatsapp-integration"]
+	path = sh-whatsapp-integration
+	url = git@github.com:xmarts/sh-whatsapp-integration.git
+	branch = 13.0
