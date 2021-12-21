@@ -12,3 +12,8 @@
 	path = l10n_do_tss_report
 	url = git@github.com:xmarts/l10n_do_tss_report.git
 	branch = 13.0
+
+[submodule "l10n_do_hr_payroll"]
+	path = l10n_do_hr_payroll
+	url = git@github.com:xmarts/l10n_do_hr_payroll.git
+	branch = 13.0
